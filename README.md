@@ -40,6 +40,13 @@ We have set up a help desk for the Node.js Project building challenge. The name 
 🚀 How to participate?
 - Build a team of 2 to 4 members
 - Pick any Node.js theme for the project: Do you want to build a full stack application, a Blog site, A bot, or Backend API framework - upto you!
+
+- Here are some other examples: 
+
+   - https://github.com/hacetheworld/ecommerce-store  - ecommerce front end &backend
+   - https://github.com/mgiatti/dev-radar-backend - web radar backend only
+   - https://github.com/Armanidrisi/devblog - simple blog using node js and mongoDb
+
 - Collaborate and create for 7 days
 - Present your project in the #vc-events channel
 
