@@ -1,4 +1,4 @@
-# Scaler
+# Scaler NodeJS-Project-Building-Challenge
 
 Are you ready to collaborate and create innovative projects? Participate in the Project Building challenge from 21st to 28th February and build innovative Node.js-based projects to win exciting rewards.
 
