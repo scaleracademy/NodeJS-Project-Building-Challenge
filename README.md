@@ -1,5 +1,8 @@
 # Scaler NodeJS-Project-Building-Challenge
 
+![Scaler Image](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/063/854/original/LP.webp?1706698719)
+
+
 Are you ready to collaborate and create innovative projects? Participate in the Project Building challenge from 21st to 28th February and build innovative Node.js-based projects to win exciting rewards.
 
 Test your coding and collaborative skills in this week-long challenge! Sign up for the Project Building challenge from 21st to 28th February to create Node.js-based projects ranging from web applications, API, and chatbots to anything you can imagine.
