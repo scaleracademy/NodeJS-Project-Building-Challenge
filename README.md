@@ -21,8 +21,8 @@ Test your coding and collaborative skills in this week-long challenge! Sign up f
 
 3. Come up with a theme around the project that you wish to build. The project has to be built during the time of the event.
 
-4. - As you start to participate from 21st Feb onwards, create a new forum post in the forum channel #nodejs-project-building-challenge-forum with the title as - `<teamname>--<DiscordUsername1>--<DiscordUsername2>` (if there are two members) or `<teamname>--<DiscordUsername1>` if there is one team member.
-   - For example, if your team name is `Invincibles` and your Discord Username is `john#1234` and teammate Discord username is `joe#1234`, your post title should be `invincibles-john1234-joe1234`. You have to drop a message: `the team will work on which specific project idea`.
+4. - As you start to participate from 21st Feb onwards, create a new forum post in the forum channel #nodejs-project-building-challenge-forum with the title as - `<teamname>` 
+   - For example, if your team name is `Invincibles` your post title should be `invincibles-`. You have to drop a message: `the team will work on which specific project idea`.
    - Use this channel and your forum post to share daily updates on the project you are building.
    - You have to create a project from scratch. Create a new repository on GitHub, keep it open source, and push all of your project code there.
    - You will get time till 28th Feb 11:59 PM IST to submit your project to be considered for prizes.
