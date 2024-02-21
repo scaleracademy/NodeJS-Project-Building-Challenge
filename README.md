@@ -27,7 +27,7 @@ Test your coding and collaborative skills in this week-long challenge! Sign up f
    - You have to create a project from scratch. Create a new repository on GitHub, keep it open source, and push all of your project code there.
    - You will get time till 28th Feb 11:59 PM IST to submit your project to be considered for prizes.
 
-   Link to join the forum channel is as follows: [Forum Channel](https://discord.com/channels/780066247601291285/1206570294832009257)
+   Link to join the forum channel is as follows: [Forum Channel](https://discord.com/channels/780066247601291285/1209473027033538611)
 
 ### Where Can I Reach Out in Case of Questions?
 
